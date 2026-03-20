@@ -29,7 +29,7 @@ function App() {
       <section className="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-slate-950 via-slate-900 to-cyan-950 -z-10" />
         <div className="absolute inset-0 bg-[linear-gradient(rgba(34,211,238,0.03)_1px,transparent_1px),linear-gradient(90deg,rgba(34,211,238,0.03)_1px,transparent_1px)] bg-[size:40px_40px] -z-10" />
-        <div className="absolute inset-y-0 right-0 w-1/2 bg-[url('https://images.unsplash.com/photo-1552993873-0b449ef98ba8?auto=format&fit=crop&q=80')] bg-cover bg-center opacity-20 blur-sm -z-10 [mask-image:linear-gradient(to_left,black,transparent)] mix-blend-overlay" />
+        <div className="absolute inset-y-0 right-0 w-1/2 bg-[url('https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&q=80')] bg-cover bg-center opacity-20 blur-sm -z-10 [mask-image:linear-gradient(to_left,black,transparent)] mix-blend-overlay" />
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-cyan-950/50 border border-cyan-500/30 text-cyan-400 text-sm font-medium mb-8 shadow-[0_0_15px_rgba(34,211,238,0.15)]">

@@ -2,6 +2,8 @@
 
 > 你的專屬 AI 導遊。從行前規劃到旅途中的即時應變，結合臺北市政府 Data.Taipei 開放資料與超過 20 項公共資料庫，打造最懂你的個人化沉浸式旅遊體驗。
 
+![Taipei Smart Travel Preview](./preview.png)
+
 ## 🌟 核心功能 (Core Features)
 
 ### 階段一：行前智慧化行程規劃
@@ -43,6 +45,13 @@
 - **建置工具**: [Vite](https://vitejs.dev/)
 - **樣式框架**: [Tailwind CSS](https://tailwindcss.com/)
 - **圖示庫**: [Lucide React](https://lucide.dev/)
+
+## 🎨 UI 設計 (UI Design)
+
+全新的「科技風格 (Cyber Tech Style)」介面，採用了：
+- **深色沉浸模式 (Dark Mode)**：深邃的 `slate-950` 背景搭配科技網格，讓視覺更專注於資料層。
+- **霓虹光暈 (Neon Glow)**：使用高對比度的 `cyan` 與多色霓虹光圈，勾勒出未來感組件。
+- **玻璃擬態 (Glassmorphism)**：半透明卡片與毛玻璃特效的無縫融合，呈現輕盈的科技感體驗。
 
 ## 🚀 快速開始 (Getting Started)
 
